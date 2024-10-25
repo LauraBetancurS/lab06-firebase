@@ -1,0 +1,14 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+  color: white;
+  background-image: url('https://wallpapers.com/images/hd/spotify-lighting-bolt-a9gr5lic9wmedkf2.jpg');
+  background-size: cover;       /* Asegura que la imagen cubra todo el contenedor */
+  background-position: center;  /* Centra la imagen */
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
